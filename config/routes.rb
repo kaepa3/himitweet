@@ -1,7 +1,7 @@
 Rails.application.routes.draw do
   get 'secrets/maker'
 
-  get 'secrets/decode'
+  #get 'secrets/decode'
 
   post 'secrets/show'
 
