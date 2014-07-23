@@ -23,11 +23,41 @@ body {
    'Hiragino Kaku Gothic ProN', 'ヒラギノ角ゴ ProN W3',
    Meiryo, メイリオ, sans-serif;
   font-size:0.9em;
+  background-color: #FFFFF0;
 }
 .maintitle{
-  font-size:1.1em;
-  font-weight: bold;
+  margin-top: 50px;
+  margin-bottom: 30px ;
+  font-size:1.5em;
+  font-weight: 800;
+  text-align: center; 
 }
 .title {
   font-size:1em;
 }
+.inputs {
+    /*border: 1px solid #FF00FF;
+  */  width: 100%;
+}
+.element {
+    border: 1px solid #FF0000;
+    width: 30%;
+    margin:0 auto 0 auto;
+}
+.sentence{
+  font-size:1.4em;
+}
+.condition {
+    border: 1px solid #FF0000; 
+
+}
+.submit {
+    border: 1px solid #FF0000; 
+}
+.infomation {
+  border: 1px solid #FF0000; 
+  text-align: center; 
+  width: 30%;
+  margin:0 auto 0 auto;
+}
+ 
